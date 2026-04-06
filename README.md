@@ -72,10 +72,10 @@ Following data preparation, structured analysis was performed across:
 
 [View on Power BI](https://app.powerbi.com/links/_H1wirBWHA?ctid=f89944b7-4a4e-4ea7-9156-3299f3411647&pbi_source=linkShare)  
 
-## How to Reproduce (High Level)
+## How to Reproduce
 
 1. Upload the CSVs in /data/raw to BigQuery.
-2. Run the SQL scripts in /sql 
+2. Run the SQL scripts in /sql/main_analysis.sql
 3. Connect Power BI to the final analytical table/view.
 4. Build visuals and dashboard using the screenshots as reference.  
 
