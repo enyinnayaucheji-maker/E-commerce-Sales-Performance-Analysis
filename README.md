@@ -1,5 +1,9 @@
 # E-Commerce Sales Analysis
 
+## Dashboard
+
+![E-Commerce Dashboard](images/dashboard.png)
+
 ## Project Overview
 
 This project analyzes e-commerce sales data to understand how different products, categories, and regions contribute to revenue over time. The goal is to move beyond basic sales summaries and extract practical insights about performance, demand concentration, and operational efficiency.
@@ -44,7 +48,7 @@ Following data preparation, structured analysis was performed across:
 - Best-performing products  
 - Order fulfillment status  
 
-## Key Findings (Summary)
+## Key Findings 
 
 - Electronics generates the majority of total revenue  
 - A small number of products drive most sales  
